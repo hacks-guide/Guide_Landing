@@ -6,24 +6,24 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Complete guides to homebrew and <br /> custom firmware for various devices.<br />"
+excerpt: "Guías completas de homebrew y <br /> custom firmware para diversas consolas.<br />"
 feature_row:
   - image_path: /images/switch.jpg
     url: "https://switch.hacks.guide/"
-    title: "Switch Hacks Guide"
+    title: "Guía de hackeo para Switch"
     excerpt: "A complete guide to Switch homebrew and homebrew development."
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "3DS Hacks Guide"
-    excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
+    excerpt: "Una guía completa de custom firmware para 3DS, desde stock a boot9strap."
   - image_path: /images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "Wii U Hacks Guide"
-    excerpt: "A complete guide to Wii U custom firmware, from stock to Coldboot Haxchi."
+    excerpt: "Una guía completa para instalar custom firmware en Wii U, desde stock hasta Coldboot Haxchi."
   - image_path: /images/panda.jpg
     url: "https://panda.hacks.guide/"
     title: "Panda 3DS Hacks Guide"
-    excerpt: "A complete guide to Panda (developer) 3DS custom firmware, from stock to boot9strap."
+    excerpt: "Una guía completa de custom firmware para las 3DS Panda (de desarrollo), desde stock a boot9strap."
 ---
 
 {% include feature_row %}
