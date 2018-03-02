@@ -11,7 +11,7 @@ feature_row:
   - image_path: /images/switch.jpg
     url: "https://switch.hacks.guide/"
     title: "Switch Hacks Guide"
-    excerpt: "A complete guide to 3DS custom firmware, from stock to boot9strap."
+    excerpt: "A complete guide to Switch homebrew and homebrew development."
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "3DS Hacks Guide"
