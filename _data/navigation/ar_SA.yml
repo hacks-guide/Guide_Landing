@@ -1,0 +1,11 @@
+---
+main:
+  - 
+    title: Home
+    url: /
+  - 
+    title: Donations
+    url: donations
+footer:
+  - 
+    title: Source
