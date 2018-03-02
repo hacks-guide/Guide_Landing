@@ -1,11 +1,11 @@
 ---
 main:
   - 
-    title: Home
-    url: /
+    title: Accueil
+    url: fr_FR/
   - 
-    title: Donations
-    url: donations
+    title: Dons
+    url: fr_FR/donations
 footer:
   - 
     title: Source
