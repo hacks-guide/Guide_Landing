@@ -6,11 +6,11 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Complete guides to homebrew and <br /> custom firmware for various devices.<br />"
+excerpt: "Guide complete per homebrew e <br /> custom firmware riguardanti diversi dispositivi.<br />"
 feature_row:
   - image_path: /images/switch.jpg
     url: "https://switch.hacks.guide/"
-    title: "Switch Hacks Guide"
+    title: "Guida per l'Hacking della Switch"
     excerpt: "A complete guide to Switch homebrew and homebrew development."
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
