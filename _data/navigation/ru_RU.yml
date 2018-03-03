@@ -1,11 +1,11 @@
 ---
 main:
   - 
-    title: Home
+    title: Главная
     url: /
   - 
-    title: Donations
+    title: Пожертвования
     url: donations
 footer:
   - 
-    title: Source
+    title: Исходный код

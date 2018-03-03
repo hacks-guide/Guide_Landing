@@ -4,8 +4,8 @@ main:
     title: Home
     url: /
   - 
-    title: Donations
+    title: Donazioni
     url: donations
 footer:
   - 
-    title: Source
+    title: Codice Sorgente

@@ -1,11 +1,11 @@
 ---
 main:
   - 
-    title: Home
+    title: Acasă
     url: /
   - 
-    title: Donations
+    title: Donații
     url: donations
 footer:
   - 
-    title: Source
+    title: Codul sursă
