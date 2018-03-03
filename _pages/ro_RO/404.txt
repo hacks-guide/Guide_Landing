@@ -1,8 +1,8 @@
 ---
-title: "Page Not Found" #
-excerpt: "Page not found. Your pixels are in another canvas." #
+title: "Pagina nu a fost găsită" #
+excerpt: "Pagina nu a fost găsită. Pixeli voștri sunt într-o altă pânză." #
 sitemap: false
 ---
 
-Sorry, but the page you were trying to view does not exist.
+Scuze, dar pagina pe care încercați să o accesați nu există.
 {: .notice--info}
