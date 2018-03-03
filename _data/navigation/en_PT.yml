@@ -1,0 +1,11 @@
+---
+main:
+  - 
+    title: Home
+    url: /
+  - 
+    title: Gimme Ye Gold
+    url: donations
+footer:
+  - 
+    title: Source
