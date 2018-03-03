@@ -6,7 +6,7 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Guide complete per homebrew e <br /> custom firmware riguardanti diversi dispositivi.<br />"
+excerpt: "Guide complete per homebrew e <br /> custom firmware su vari dispositivi.<br />"
 feature_row:
   - image_path: /images/switch.jpg
     url: "https://switch.hacks.guide/"
