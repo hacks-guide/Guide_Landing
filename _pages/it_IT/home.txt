@@ -14,16 +14,16 @@ feature_row:
     excerpt: "La guida omnicomprensiva all'Homebrew su Switch e lo sviluppo di homebrew."
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
-    title: "3DS Hacks Guide"
-    excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
+    title: "Guida per l'Hacking del 3DS"
+    excerpt: "La guida omnicomprensiva per installare un custom firmware su 3DS, da zero a boot9strap."
   - image_path: /images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
-    title: "Wii U Hacks Guide"
-    excerpt: "A complete guide to Wii U custom firmware, from stock to Coldboot Haxchi."
+    title: "Guida per l'Hacking della Wii U"
+    excerpt: "La guida omnicomprensiva per installare un custom firmware su Wii U, da zero a Coldboot Haxchi."
   - image_path: /images/panda.jpg
     url: "https://panda.hacks.guide/"
-    title: "Panda 3DS Hacks Guide"
-    excerpt: "A complete guide to Panda (developer) 3DS custom firmware, from stock to boot9strap."
+    title: "Guida per l'Hacking del 3DS Panda"
+    excerpt: "La guida omnicomprensiva per installare un custom firmware su 3DS Panda (modello per developer), da zero a boot9strap."
 ---
 
 {% include feature_row %}
