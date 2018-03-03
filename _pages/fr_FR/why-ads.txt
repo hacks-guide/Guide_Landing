@@ -1,14 +1,14 @@
 ---
-title: "Why Ads?"
+title: "Pourquoi des pubs ?"
 ---
 
-This project is the culmination of thousands of hours of constant work.
+Ce projet est le fruit de centaines d’heures de travail constant.
 
-I maintain this guide, for free, and ensure it is always up to date. Because of this effort, I feel that it is fair for me to attempt to gain a meager income from my work.
+Je maintiens ce guide, gratuitement, et m’assure qu’il est toujours à jour. A cause de cet effort, il me semble juste d'essayer de gagner un peu d'argent a partir de mon travail.
 
-This site costs you nothing to use, and all that I display are non-intrusive ads. If you still have a problem with this, feel free to block these ads.
+Ce site ne vous coûte rien, et les publicités affichées ne sont pas intrusives. Mais si cela vous pose quand même problème, vous êtes libre de bloquer ces publicités.
 
-If you do block ads, I would like to also remind you of the [Donations](donations) page, but once again that is optional too.
+Si vous bloquez les publicités, j'aimerais vous rappeler que j'accepte également des [dons](donations), mais, à nouveau, vous n'êtes pas obligés d'en faire.
 
-Thanks,<br>
+Merci,<br>
 Plailect
