@@ -11,7 +11,7 @@ feature_row:
   - image_path: /images/switch.jpg
     url: "https://switch.hacks.guide/"
     title: "Guida per l'Hacking della Switch"
-    excerpt: "A complete guide to Switch homebrew and homebrew development."
+    excerpt: "La guida omnicomprensiva all'Homebrew su Switch e lo sviluppo di homebrew."
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "3DS Hacks Guide"
