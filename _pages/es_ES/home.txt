@@ -11,18 +11,18 @@ feature_row:
   - image_path: /images/switch.jpg
     url: "https://switch.hacks.guide/"
     title: "Guía de hackeo para Switch"
-    excerpt: "A complete guide to Switch homebrew and homebrew development."
+    excerpt: "Una guía completa de homebrew y de desarrollo de homebrew para Switch."
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
-    title: "3DS Hacks Guide"
+    title: "Guía de hacks para 3DS"
     excerpt: "Una guía completa de custom firmware para 3DS, desde stock a boot9strap."
   - image_path: /images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
-    title: "Wii U Hacks Guide"
+    title: "Guía de hacks para Wii U"
     excerpt: "Una guía completa para instalar custom firmware en Wii U, desde stock hasta Coldboot Haxchi."
   - image_path: /images/panda.jpg
     url: "https://panda.hacks.guide/"
-    title: "Panda 3DS Hacks Guide"
+    title: "Guía de hacks para 3DS Panda"
     excerpt: "Una guía completa de custom firmware para las 3DS Panda (de desarrollo), desde stock a boot9strap."
 ---
 
