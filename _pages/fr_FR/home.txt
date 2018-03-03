@@ -1,0 +1,29 @@
+---
+layout: splash
+title: "Guides Hacks" #
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: images/home-page-feature.jpg
+  overlay_filter: 0.5
+  caption:
+excerpt: "Guides complets pour installer des Homebrews et <br /> Custom Firmware sur différentes consoles.<br />"
+feature_row:
+  - image_path: /images/switch.jpg
+    url: "https://switch.hacks.guide/"
+    title: "Guide Hacks Switch"
+    excerpt: "Un guide complet pour les homebrew Switch et le développement de homebrew."
+  - image_path: /images/3ds.jpg
+    url: "https://3ds.hacks.guide/"
+    title: "Guide Hacks 3DS"
+    excerpt: "Un guide complet pour le custom firmware 3DS, depuis le firmware original vers boot9strap."
+  - image_path: /images/wiiu.jpg
+    url: "https://wiiu.hacks.guide/"
+    title: "Guide Hacks Wii U"
+    excerpt: "Un guide complet sur l’obtention d’un Custom Firmware pour Wii U, du firmware d'origine jusqu'à Coldboot Haxchi."
+  - image_path: /images/panda.jpg
+    url: "https://panda.hacks.guide/"
+    title: "Guide Hacks 3DS Panda"
+    excerpt: "Un guide complet pour le custom firmware 3DS Panda (développeur), depuis le firmware original vers boot9strap."
+---
+
+{% include feature_row %}
