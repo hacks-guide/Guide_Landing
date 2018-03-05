@@ -5,11 +5,11 @@ title: "لماذا إعلان؟"
 من الكاتب الأصلي:
 "هذا المشروع ثمرة مئات الساعات من الجهد المتواصل".
 
-"أقوم بتحديث هذا الدليل مجانا، و أحرص على مواكبته المستجدات. Because of this effort, I feel that it is fair for me to attempt to gain a meager income from my work.
+"أقوم بتحديث هذا الدليل مجانا، و أحرص على مواكبته المستجدات. و لهذا السبب، أظنه من الإنصاف أن أحاول أن أسترزق قليلا من عملي.".
 
-This site costs you nothing to use, and all that I display are non-intrusive ads. If you still have a problem with this, feel free to block these ads.
+"هذا الموقع لا يكلفك شيئا لاستعماله، و كل الاعلانات فيه لا تفسد على القارئ. لو كنت تمانع رغم كل هذا، فخذ حريتك في حجب هذه الاعلانات بمتصفحك.".
 
-If you do block ads, I would like to also remind you of the [Donations](donations) page, but once again that is optional too.
+"لو اخترت حجب الاعلانات، فأود تذكيرك بصفحة التبرعات [Donations](التبرعات)، مع أنها هي الأخرى اختيارية أيضا".
 
-Thanks,<br>
+"شكرا،" <br>
 Plailect
