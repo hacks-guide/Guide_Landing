@@ -15,15 +15,15 @@ feature_row:
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "دليل تهكير جهاز 3DS"
-    excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
+    excerpt: "دليل كامل عن التحديثات المعدلة "CFW" لجهاز الـ3DS، من التحديث الأصلي إلى boot9strap."
   - image_path: /images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "دليل تهكير جهاز Wii U"
-    excerpt: "A complete guide to Wii U custom firmware, from stock to Coldboot Haxchi."
+    excerpt: "دليل كامل عن التحديثات المعدلة "CFW" لجهاز الـWii U، من التحديث الأصلي إلى Coldboot Haxchi."
   - image_path: /images/panda.jpg
     url: "https://panda.hacks.guide/"
-    title: "Panda 3DS Hacks Guide"
-    excerpt: "A complete guide to Panda (developer) 3DS custom firmware, from stock to boot9strap."
+    title: "دليل تهكير جهاز 3DS باندا (Panda)"
+    excerpt: "دليل كامل عن للتحديثات المعدلة "CFW" لجهاز الـ3DS باندا (Panda) (للمطورين) ، من التحديث الأصلي إلى boot9strap."
 ---
 
 {% include feature_row %}
