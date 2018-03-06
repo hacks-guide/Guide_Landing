@@ -1,10 +1,10 @@
 ---
 main:
   - 
-    title: Home
+    title: الصفحة الرئيسية
     url: /
   - 
-    title: Donations
+    title: التبرعات
     url: donations
 footer:
   - 
