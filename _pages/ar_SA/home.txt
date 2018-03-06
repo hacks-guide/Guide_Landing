@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hacks.Guide" #
+title: "دليل.التهكيرات"
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/home-page-feature.jpg
@@ -10,15 +10,15 @@ excerpt: "Complete guides to homebrew and <br /> custom firmware for various dev
 feature_row:
   - image_path: /images/switch.jpg
     url: "https://switch.hacks.guide/"
-    title: "Switch Hacks Guide"
-    excerpt: "A complete guide to Switch homebrew and homebrew development."
+    العنوان: "دليل تهكير جهاز ننتيندو سوتش"
+    excerpt: "دليل كامل عن الـHomebrew لننتيندو سوتش و تطوير الـHomebrew."
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
-    title: "3DS Hacks Guide"
+    title: "دليل تهكير جهاز 3DS"
     excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
   - image_path: /images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
-    title: "Wii U Hacks Guide"
+    title: "دليل تهكير جهاز Wii U"
     excerpt: "A complete guide to Wii U custom firmware, from stock to Coldboot Haxchi."
   - image_path: /images/panda.jpg
     url: "https://panda.hacks.guide/"
