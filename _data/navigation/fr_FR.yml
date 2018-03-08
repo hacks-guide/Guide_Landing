@@ -2,10 +2,10 @@
 main:
   - 
     title: Accueil
-    url: fr_FR/
+    url: /
   - 
     title: Dons
-    url: fr_FR/donations
+    url: donations
 footer:
   - 
     title: Source
