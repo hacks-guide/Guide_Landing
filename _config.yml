@@ -139,7 +139,7 @@ exclude: [
   README,
   tmp,
   _pages/af_ZA,
-  _pages/ar_SA,
+  # _pages/ar_SA,
   _pages/ca_ES,
   _pages/cs_CZ,
   _pages/da_DK,
