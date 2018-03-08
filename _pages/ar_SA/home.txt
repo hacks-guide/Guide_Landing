@@ -6,7 +6,7 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: " أدلة كاملة عن الـHomebrew و <br /> التحديثات المعدلة "CFW" لعدة أجهزة.<br />"
+excerpt: " أدلة كاملة عن الـHomebrew و <br /> التحديثات المعدلة CFW لعدة أجهزة.<br />"
 feature_row:
   - image_path: /images/switch.jpg
     url: "https://switch.hacks.guide/"
