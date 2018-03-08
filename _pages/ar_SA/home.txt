@@ -6,7 +6,7 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: " أدلة كاملة عن الـHomebrew و <br /> التحديثات المعدلة "CFW" لعدة أجهزة.<br />"
+excerpt: " أدلة كاملة عن الـHomebrew و <br /> التحديثات المعدلة CFW لعدة أجهزة.<br />"
 feature_row:
   - image_path: /images/switch.jpg
     url: "https://switch.hacks.guide/"
@@ -15,15 +15,15 @@ feature_row:
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "دليل تهكير جهاز 3DS"
-    excerpt: "دليل كامل عن التحديثات المعدلة "CFW" لجهاز الـ3DS، من التحديث الأصلي إلى boot9strap."
+    excerpt: "دليل كامل عن التحديثات المعدلة CFW لجهاز الـ3DS، من التحديث الأصلي إلى boot9strap."
   - image_path: /images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "دليل تهكير جهاز Wii U"
-    excerpt: "دليل كامل عن التحديثات المعدلة "CFW" لجهاز الـWii U، من التحديث الأصلي إلى Coldboot Haxchi."
+    excerpt: "دليل كامل عن التحديثات المعدلة CFW لجهاز الـWii U، من التحديث الأصلي إلى Coldboot Haxchi."
   - image_path: /images/panda.jpg
     url: "https://panda.hacks.guide/"
     title: "دليل تهكير جهاز 3DS باندا (Panda)"
-    excerpt: "دليل كامل عن للتحديثات المعدلة "CFW" لجهاز الـ3DS باندا (Panda) (للمطورين) ، من التحديث الأصلي إلى boot9strap."
+    excerpt: "دليل كامل عن للتحديثات المعدلة CFW لجهاز الـ3DS باندا (Panda) (للمطورين) ، من التحديث الأصلي إلى boot9strap."
 ---
 
 {% include feature_row %}
