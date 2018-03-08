@@ -10,7 +10,7 @@ excerpt: " أدلة كاملة عن الـHomebrew و <br /> التحديثات 
 feature_row:
   - image_path: /images/switch.jpg
     url: "https://switch.hacks.guide/"
-    العنوان: "دليل تهكير جهاز ننتيندو سوتش"
+    title: "دليل تهكير جهاز ننتيندو سوتش"
     excerpt: "دليل كامل عن الـHomebrew لننتيندو سوتش و تطوير الـHomebrew."
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
