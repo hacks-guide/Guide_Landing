@@ -15,7 +15,7 @@ feature_row:
   - image_path: /images/3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "دليل تهكير جهاز 3DS"
-    excerpt: "دليل كامل عن التحديثات المعدلة "CFW" لجهاز الـ3DS، من التحديث الأصلي إلى boot9strap."
+    excerpt: "دليل كامل عن التحديثات المعدلة CFW لجهاز الـ3DS، من التحديث الأصلي إلى boot9strap."
   - image_path: /images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "دليل تهكير جهاز Wii U"
