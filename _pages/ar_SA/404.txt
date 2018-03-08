@@ -1,6 +1,6 @@
 ---
 title: "لم يتم العثور على الصفحة" #
-excerpt: "لم يتم العثور على الصفحة. Your pixels are in another canvas." #
+excerpt: "لم يتم العثور على الصفحة. شكرا لك ماريو! لكن أميرتنا في قلعة أخرى." #
 sitemap: false
 ---
 
