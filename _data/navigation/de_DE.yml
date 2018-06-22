@@ -1,11 +1,11 @@
 ---
 main:
   - 
-    title: Home
+    title: Startseite
     url: /
   - 
-    title: Donations
+    title: Spenden
     url: donations
 footer:
   - 
-    title: Source
+    title: Quellcode
