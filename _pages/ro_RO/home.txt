@@ -8,22 +8,18 @@ header:
   caption:
 excerpt: "Ghiduri complete pentru Homebrew și<br /> custom firmware pentru diverse console.<br />"
 feature_row:
-  - image_path: /images/switch.jpg
+  - image_path: /images/home-page-switch.jpg
     url: "https://switch.hacks.guide/"
     title: "Ghidul de Modări Switch"
     excerpt: "Un ghid complet pentru homebrew pe Switch și dezvoltare în homebrew."
-  - image_path: /images/3ds.jpg
+  - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "Ghidul de Modări 3DS"
     excerpt: "Un ghid complet spre firmware personalizat pentru 3DS, de la stoc la boot9strap."
-  - image_path: /images/wiiu.jpg
+  - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "Ghidul de Modări Wii U"
     excerpt: "Un ghid complet spre firmware personalizat pentru Wii U, de la stoc la Coldboot Haxchi."
-  - image_path: /images/panda.jpg
-    url: "https://panda.hacks.guide/"
-    title: "Ghidul de Modări Panda"
-    excerpt: "Un ghid complet spre firmware personalizat pentru 3DS Panda (dezvoltător), de la stoc la boot9strap."
 ---
 
 {% include feature_row %}

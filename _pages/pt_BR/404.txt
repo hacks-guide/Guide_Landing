@@ -1,8 +1,8 @@
 ---
-title: "Page Not Found" #
-excerpt: "Page not found. Your pixels are in another canvas." #
+title: "Página Não Encontrada" #
+excerpt: "Página não encontrada. Os teus píxeis estão noutra tela." #
 sitemap: false
 ---
 
-Sorry, but the page you were trying to view does not exist.
+Desculpa, mas a página que estavas a tentar visualizar não existe.
 {: .notice--info}
