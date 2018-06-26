@@ -8,19 +8,19 @@ header:
   caption:
 excerpt: " أدلة كاملة عن الـHomebrew و <br /> التحديثات المعدلة CFW لعدة أجهزة.<br />"
 feature_row:
-  - image_path: /images/switch.jpg
+  - image_path: /images/home-page-switch.jpg
     url: "https://switch.hacks.guide/"
     title: "دليل تهكير جهاز ننتيندو سوتش"
     excerpt: "دليل كامل عن الـHomebrew لننتيندو سوتش و تطوير الـHomebrew."
-  - image_path: /images/3ds.jpg
+  - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "دليل تهكير جهاز 3DS"
     excerpt: "دليل كامل عن التحديثات المعدلة CFW لجهاز الـ3DS، من التحديث الأصلي إلى boot9strap."
-  - image_path: /images/wiiu.jpg
+  - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "دليل تهكير جهاز Wii U"
     excerpt: "دليل كامل عن التحديثات المعدلة CFW لجهاز الـWii U، من التحديث الأصلي إلى Coldboot Haxchi."
-  - image_path: /images/panda.jpg
+  - image_path: /images/home-page-panda.jpg
     url: "https://panda.hacks.guide/"
     title: "دليل تهكير جهاز 3DS باندا (Panda)"
     excerpt: "دليل كامل عن للتحديثات المعدلة CFW لجهاز الـ3DS باندا (Panda) (للمطورين) ، من التحديث الأصلي إلى boot9strap."
