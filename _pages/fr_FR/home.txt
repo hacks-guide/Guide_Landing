@@ -20,10 +20,6 @@ feature_row:
     url: "https://wiiu.hacks.guide/"
     title: "Guide Hacks Wii U"
     excerpt: "Un guide complet sur l’obtention d’un Custom Firmware pour Wii U, du firmware d'origine jusqu'à Coldboot Haxchi."
-  - image_path: /images/home-page-panda.jpg
-    url: "https://panda.hacks.guide/"
-    title: "Guide Hacks 3DS Panda"
-    excerpt: "Un guide complet pour le custom firmware 3DS Panda (développeur), depuis le firmware original vers boot9strap."
 ---
 
 {% include feature_row %}
