@@ -1,29 +1,25 @@
 ---
 layout: splash
-title: "Hacks.Guide" #
+title: "Guias.de.Hacks" #
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Complete guides to homebrew and <br /> custom firmware for various devices.<br />"
+excerpt: "Guias completos de homebrew e <br /> custom firmware para vários dispositivos.<br />"
 feature_row:
-  - image_path: /images/switch.jpg
+  - image_path: /images/home-page-switch.jpg
     url: "https://switch.hacks.guide/"
-    title: "Switch Hacks Guide"
-    excerpt: "A complete guide to Switch homebrew and homebrew development."
-  - image_path: /images/3ds.jpg
+    title: "Guia de Hacks para a Switch"
+    excerpt: "Um guia completo para o homebrew da Switch e desenvolvimento de homebrew."
+  - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
-    title: "3DS Hacks Guide"
-    excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
-  - image_path: /images/wiiu.jpg
+    title: "Guia de Hacks para a 3DS"
+    excerpt: "Um guia completo de custom firmware para a 3DS de retalho, desde o stock até ao boot9strap."
+  - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
-    title: "Wii U Hacks Guide"
-    excerpt: "A complete guide to Wii U custom firmware, from stock to Coldboot Haxchi."
-  - image_path: /images/panda.jpg
-    url: "https://panda.hacks.guide/"
-    title: "Panda 3DS Hacks Guide"
-    excerpt: "A complete guide to Panda (developer) 3DS custom firmware, from stock to boot9strap."
+    title: "Guia de Hacks para a Wii U"
+    excerpt: "Um guia completo de custom firmware para a Wii U, desde o stock até ao Coldboot Haxchi."
 ---
 
 {% include feature_row %}
