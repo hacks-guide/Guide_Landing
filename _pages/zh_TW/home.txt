@@ -1,29 +1,29 @@
 ---
 layout: splash
-title: "Hacks.Guide" #
+title: "Hacks.Guide 改機手冊系列" #
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Complete guides to homebrew and <br /> custom firmware for various devices.<br />"
+excerpt: "為各式主機所寫最完整的自製軟體<br />及自製韌體的改機手冊。<br />"
 feature_row:
   - image_path: /images/home-page-switch.jpg
     url: "https://switch.hacks.guide/"
-    title: "Switch Hacks Guide"
-    excerpt: "A complete guide to Switch homebrew and homebrew development."
+    title: "Switch 改機手冊"
+    excerpt: "最完整的 Switch 自製軟體以及自製軟體開發教戰手冊。"
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
-    title: "3DS Hacks Guide"
-    excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
+    title: "3DS 改機手冊"
+    excerpt: "最完整的 3DS 改機教戰手冊，教您如何從原廠主機改成 boot9strap。"
   - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
-    title: "Wii U Hacks Guide"
-    excerpt: "A complete guide to Wii U custom firmware, from stock to Coldboot Haxchi."
+    title: "Wii U 改機手冊"
+    excerpt: "最完整的 Wii U 改機教戰手冊，教您如何從原廠韌體改成 Coldboot Haxchi。"
   - image_path: /images/home-page-vita.jpg
     url: "https://vita.hacks.guide/"
-    title: "Vita Hacks Guide"
-    excerpt: "A complete guide to PS Vita (TV) custom firmware, from stock to HENkaku Ensō."
+    title: "Vita 改機手冊"
+    excerpt: "最完整的 PS Vita (TV) 改機教戰手冊，教您如何從原廠韌體改成 HENkaku Ensō。"
 ---
 
 {% include feature_row %}
