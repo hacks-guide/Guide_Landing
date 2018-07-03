@@ -22,8 +22,8 @@ feature_row:
     excerpt: "Una guía completa para instalar custom firmware en Wii U, desde stock hasta Coldboot Haxchi."
   - image_path: /images/home-page-vita.jpg
     url: "https://vita.hacks.guide/"
-    title: "Vita Hacks Guide"
-    excerpt: "A complete guide to PS Vita (TV) custom firmware, from stock to HENkaku Ensō."
+    title: "Guía de hacks para PS Vita"
+    excerpt: "Una guía completa de custom firmware para PS Vita (TV), desde stock a HENkaku Ensō."
 ---
 
 {% include feature_row %}
