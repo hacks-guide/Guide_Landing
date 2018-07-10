@@ -1,11 +1,11 @@
 ---
 main:
   - 
-    title: Home
+    title: 首頁
     url: /
   - 
-    title: Donations
+    title: 贊助
     url: donations
 footer:
   - 
-    title: Source
+    title: 本站原始碼

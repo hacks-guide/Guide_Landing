@@ -20,6 +20,10 @@ feature_row:
     url: "https://wiiu.hacks.guide/"
     title: "Wii U Hacks Guide"
     excerpt: "Полное руководство по прошивке Wii U, от начала до Coldboot Haxchi."
+  - image_path: /images/home-page-vita.jpg
+    url: "https://vita.hacks.guide/"
+    title: "Vita Hacks Guide"
+    excerpt: "Полное руководство по прошивке PS Vita (TV), от начала до HENkaku Ensō."
 ---
 
 {% include feature_row %}

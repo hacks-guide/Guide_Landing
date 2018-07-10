@@ -15,11 +15,15 @@ feature_row:
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "Guide Hacks 3DS"
-    excerpt: "Un guide complet pour le custom firmware 3DS, depuis le firmware original vers boot9strap."
+    excerpt: "Un guide complet vers un custom firmware sur 3DS, depuis le firmware original vers boot9strap."
   - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "Guide Hacks Wii U"
     excerpt: "Un guide complet sur l’obtention d’un Custom Firmware pour Wii U, du firmware d'origine jusqu'à Coldboot Haxchi."
+  - image_path: /images/home-page-vita.jpg
+    url: "https://vita.hacks.guide/"
+    title: "Guide Hacks Vita"
+    excerpt: "Un guide complet vers un custom firmware sur PS Vita (TV), depuis le firmware original vers HENkaku Ensō."
 ---
 
 {% include feature_row %}
