@@ -1,11 +1,11 @@
 ---
 main:
   - 
-    title: Home
-    url: /
+    title: Αρχική
+    url: donations
   - 
-    title: Donations
+    title: Δωρεές
     url: donations
 footer:
   - 
-    title: Source
+    title: Κώδικας
