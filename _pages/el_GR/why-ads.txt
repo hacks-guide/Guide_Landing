@@ -1,14 +1,14 @@
 ---
-title: "Why Ads?"
+title: "Γιατί βλέπω διαφημίσεις;" #
 ---
 
-This project is the culmination of thousands of hours of constant work.
+Αυτή η εργασία είναι συσσώρευση δουλειάς εκατοντάδων ωρών συνεχούς εργασίας.
 
-I maintain this guide, for free, and ensure it is always up to date. Because of this effort, I feel that it is fair for me to attempt to gain a meager income from my work.
+Συντηρώ αυτό τον οδηγό, δωρεάν, και διασφαλίζω πως είναι πάντα ενημερωμένος. Λόγο αυτής της προσπάθειας, πιστεύω πως είναι δίκαιο να προσπαθήσω να αποκτήσω ένα λιγοστό εισόδημα για την προσπάθεια που κατέβαλα.
 
-This site costs you nothing to use, and all that I display are non-intrusive ads. If you still have a problem with this, feel free to block these ads.
+Αυτή η ιστοσελίδα δεν κοστίζει απολύτως τίποτα για να χρησιμοποιηθεί και όλες οι διαφημίσεις που προβάλλω είναι διακριτικές. Αν εξακολουθείτε να έχετε πρόβλημα με αυτό, μην διστάσετε να μπλοκάρετε αυτές τις διαφημίσεις.
 
-If you do block ads, I would like to also remind you of the [Donations](donations) page, but once again that is optional too.
+Εάν μπλοκάρετε τις διαφημίσεις, θα ήθελα να σας υπενθυμίσω σχετικά με την σελίδα για τις [Δωρεές](donations), αλλά ξανά, αυτό είναι προαιρετικό.
 
-Thanks,<br>
+Ευχαριστώ,<br>
 Plailect
