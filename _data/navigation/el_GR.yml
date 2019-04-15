@@ -2,10 +2,12 @@
 main:
   - 
     title: Αρχική
-    url: donations
+    url: /
   - 
     title: Δωρεές
     url: donations
 footer:
   - 
     title: Κώδικας
+  - 
+    title: Privacy Policy
