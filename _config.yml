@@ -60,6 +60,8 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
+6670011780914577
+
   username               :
   app_id                 :
   publisher              :
@@ -115,6 +117,7 @@ include:
  - .htaccess
  - _pages
  - .well-known
+ - ads.txt
 exclude: [
   "*.sublime-project",
   "*.sublime-workspace",
