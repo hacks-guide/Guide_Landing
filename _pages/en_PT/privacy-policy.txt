@@ -4,30 +4,30 @@ title: "Privacy Policy" #
 
 ### Cookies
 
-This site utilizes cookies in order to fascilitate routing users through the guide instructions. Cookies allow for the sidebar of the page to display current progress through the site to help users navigate the instructions more easily.
+'Tis site makes use 'o cookies in order to make it easier fer users to be routed through th' instructions 'o th' guide. Specifically, cookies power th' overall progress display on a page's sidebar fer simpler user navigation throughout th' site.
 
 ### Embedded Content From Other Websites
 
-This site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves as if the user has visited the other website.
+'Tis site may embed external content (which might include, yet not be limited to, videos, images, 'n articles). When embedded content from another website be present, th' web browser behaves by th' same rules in accessin' both th' embedded content 'n th' other website itself.
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+On account 'o 'tis, external websites wit' their content embedded in 'tis site may collect data concernin' ye. They may use cookies. They may embed additional third-party content wit' trackin'. 'N finally, they may monitor ye interaction wit' their embedded content, which might include trackin' ye interaction if ye be logged into an account on that website.
 
 ### Analytics
 
-This site uses Google Analytics to monitor and analyze traffic. This site is hosted by Github Pages, which may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with this site. For more information about Github Pages as it relates to user privacy, see the [GitHub Privacy Statement](https://help.github.com/en/articles/github-privacy-statement).
+'Tis site has Google Analytics added fer analysis 'n monitorin' 'o site traffic. Additionally, 'tis site be hosted on GitHub Pages. GitHub Pages may collect data concernin' ye. It may use cookies. It may embed additional third-party content wit' trackin'. 'N finally, it may monitor ye interaction wit' 'tis site. Fer more information concernin' GitHub Pages 'n its relation to user privacy, ye oughtta read th' [GitHub Privacy Statement](https://help.github.com/en/articles/github-privacy-statement).
 
 ### Information Collected
 
-This site does not collect personal information. This site may collect usage information in order to analyze interest in content and to provide advertisers with information on an aggregate basis. No personally identifiable information is shared with third-party advertising companies.
+'Tis site refrains from collectin' personal information. 'Tis site may, however, collect information on how it be used, in order that interest in content be analyzed 'n advertisers be provided wit' bulk, aggregated information. No personally identifiable information be shared wit' third-party advertisers.
 
-Google (as a third party advertisement vendor) uses cookies to serve ads on this site. The use of DART cookies by Google allows them to serve advertisements to visitors based on their visits to this site as well as other sites. To opt-out of DART cookies, see the [Google Advertising Privacy Policy](http://www.google.com/policies/technologies/ads/).
+Google, actin' as a third party advertisement vendor, uses cookies to serve ads on 'tis site. Google makes use 'o DART cookies in order to serve advertisements to site visitors based on their visits to 'tis site as well as other sites. If ye desire to opt out of DART cookies, ye oughtta be sein' th' [Google Advertisin' Privacy Policy](http://www.google.com/policies/technologies/ads/).
 
-Other third-party advertising servers or networks may also use cookies to track user activity on this site to measure advertising effectiveness or for other reasons provided in their privacy policies. This site has no access or control over any cookies which may be used by third-party advertisers.
+Third-party advertisin' servers or networks besides Google may also use cookies, fer trackin' user activity 'n advertisement effectiveness on 'tis site or fer other purposes they provide in their own privacy policies. 'Tis site be unable to access or restrict any cookies that third-party advertisers may use.
 
 ### Third-Party Websites
 
-This site may link to other sites for users to use or reference. This site is not responsible for the privacy policies of other sites. Users should be aware that the privacy policies of other websites may differ from this one.
+'Tis site may contain hyperlinks pointin' to external websites. These be provided fer users to use or to reference. 'Tis site has no responsibility or control over external sites' privacy policies. Users oughtta be aware that these other websites' privacy policies may be different from 'tis one.
 
 ### Changes to th' Privacy Policy
 
-The contents of this Privacy Policy may be altered at any time and for any reason. For questions regarding this site's Privacy policy, contact [plailect@gmail.com](mailto:plailect@gmail.com).
+Th' contents 'o 'tis privacy policy may be altered at whatever time, 'n fer whatever reason, alterations be deemed necessary. If ye have questions regardin' 'tis privacy policy, ye oughtta contact [plailect@gmail.com](mailto:plailect@gmail.com).
