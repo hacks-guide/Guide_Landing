@@ -8,9 +8,9 @@ main:
     url: donations
 top:
   - 
-    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
+    title: Этот сайт использует cookies для отображения текущего прогресса в руководстве на боковой панели и для других способов улучшения сайта.
 footer:
   - 
     title: Исходный код
   - 
-    title: Privacy Policy
+    title: Политика конфиденциальности
