@@ -6,6 +6,11 @@ main:
   - 
     title: Donativos
     url: donations
+top:
+  - 
+    title: Este website utiliza cookies para mostrar, na barra lateral, o progresso atual do guia e otimizar o site doutras maneiras.
 footer:
   - 
     title: Fonte
+  - 
+    title: Política de Privacidade

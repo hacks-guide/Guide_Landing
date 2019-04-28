@@ -6,6 +6,11 @@ main:
   - 
     title: 贊助
     url: donations
+top:
+  - 
+    title: 此網站透過 Cookies 來顯示您手冊的操作進度以及提升此網站的使用經驗。
 footer:
   - 
     title: 本站原始碼
+  - 
+    title: 隱私權政策
