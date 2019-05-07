@@ -2,6 +2,7 @@
 
 google.com, pub-6670011780914577, DIRECT, f08c47fec0942fa0
 google.com, pub-8148998928447318, DIRECT, f08c47fec0942fa0
+google.com, pub-8267943526926430, DIRECT, f08c47fec0942fa0
 
 
 appnexus.com, 8692, DIRECT, f5ab79cb980f11d1
