@@ -1,33 +1,34 @@
 ---
-title: "Privacy Policy" #
+العنوان: "سياسة الخصوصية" #
 ---
 
-### Cookies
+### ملفات تعريف الارتباط
 
-This site utilizes cookies in order to fascilitate routing users through the guide instructions. Cookies allow for the sidebar of the page to display current progress through the site to help users navigate the instructions more easily.
+يستخدم هذا الموقع ملفات تعريف الارتباط لتسهيل توجيه المستخدمين من خلال إرشادات الدليل. تسمح ملفات تعريف الارتباط للشريط الجانبي للصفحة بعرض التقدم الحالي عبر الموقع لمساعدة المستخدمين على التنقل في الإرشادات بسهولة أكبر.
 
-### Embedded Content From Other Websites
+### محتوى مضمن من مواقع أخرى
 
-This site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves as if the user has visited the other website.
+قد يتضمن موقعه محتوى مضمنًا (على سبيل المثال. مقاطع الفيديو والصور والمقالات ، وما إلى ذلك). يتصرف المحتوى المضمن من مواقع الويب الأخرى كما لو كان المستخدم قد قام بزيارة الموقع الآخر.
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+قد تقوم مواقع الويب هذه بجمع بيانات عنك ، واستخدام ملفات تعريف الارتباط ، وتضمين تتبع إضافي لجهة خارجية ، ومراقبة تفاعلك مع هذا المحتوى المضمن ، بما في ذلك تتبع تفاعلك مع المحتوى المضمن إذا كان لديك حساب وقمت بتسجيل الدخول إلى هذا الموقع.
 
-### Analytics
+### تحليلات
 
-This site uses Google Analytics to monitor and analyze traffic. This site is hosted by Github Pages, which may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with this site. For more information about Github Pages as it relates to user privacy, see the [GitHub Privacy Statement](https://help.github.com/en/articles/github-privacy-statement).
+يستخدم هذا الموقع تحليلات جوجل لمراقبة وتحليل حركة المرور. تتم استضافة هذا الموقع بواسطة صفحات جيت هب، التي قد تجمع بيانات عنك ، وتستخدم ملفات تعريف الارتباط ، وتتضمن تتبعًا إضافيًا لجهة خارجية ، وتراقب تفاعلك مع هذا الموقع. لمزيد من المعلومات حول صفحات جيثب من حيث صلتها بخصوصية المستخدم ، انظر [بيان خصوصية جيت هب]
+(https://help.github.com/en/articles/github-privacy-statement).
 
-### Information Collected
+### المعلومات التي تم جمعها
 
-This site does not collect personal information. This site may collect usage information in order to analyze interest in content and to provide advertisers with information on an aggregate basis. No personally identifiable information is shared with third-party advertising companies.
+هذا الموقع لا يجمع المعلومات الشخصية. قد يجمع هذا الموقع معلومات الاستخدام من أجل تحليل الاهتمام بالمحتوى وتزويد المعلنين بالمعلومات على أساس كلي. لا تتم مشاركة معلومات التعريف الشخصية مع شركات الإعلان التابعة لجهات خارجية.
 
-Google (as a third party advertisement vendor) uses cookies to serve ads on this site. The use of DART cookies by Google allows them to serve advertisements to visitors based on their visits to this site as well as other sites. To opt-out of DART cookies, see the [Google Advertising Privacy Policy](http://www.google.com/policies/technologies/ads/).
+تستخدم جوجل (كمورد إعلان خارجي) ملفات تعريف الارتباط لعرض الإعلانات على هذا الموقع. يتيح استخدام جوجل لملفات تعريف الارتباط DART تقديم إعلانات للزائرين استنادًا إلى زياراتهم لهذا الموقع والمواقع الأخرى. لإلغاء اشتراك ملفات تعريف الارتباط DART ، انظر [سياسة خصوصية إعلانات جوجل](http://www.google.com/policies/technologies/ads/).
 
-Other third-party advertising servers or networks may also use cookies to track user activity on this site to measure advertising effectiveness or for other reasons provided in their privacy policies. This site has no access or control over any cookies which may be used by third-party advertisers.
+قد تستخدم خوادم أو شبكات إعلانات الجهات الخارجية أيضًا ملفات تعريف الارتباط لتتبع نشاط المستخدم على هذا الموقع لقياس فعالية الإعلان أو لأسباب أخرى منصوص عليها في سياسات الخصوصية الخاصة بهم. لا يتمتع هذا الموقع بأي حق الوصول أو التحكم في أي ملفات تعريف ارتباط يمكن استخدامها من قِبل المعلنين الخارجيين.
 
-### Third-Party Websites
+### مواقع الطرف الثالث
 
-This site may link to other sites for users to use or reference. This site is not responsible for the privacy policies of other sites. Users should be aware that the privacy policies of other websites may differ from this one.
+قد يرتبط هذا الموقع بمواقع أخرى لاستخدامها أو الرجوع إليها. هذا الموقع غير مسؤول عن سياسات الخصوصية للمواقع الأخرى. يجب أن يدرك المستخدمون أن سياسات الخصوصية الخاصة بمواقع الويب الأخرى قد تختلف عن هذه السياسات.
 
-### Changes to Privacy Policy
+### التغييرات في سياسة الخصوصية
 
-The contents of this Privacy Policy may be altered at any time and for any reason. For questions regarding this site's Privacy policy, contact [plailect@gmail.com](mailto:plailect@gmail.com).
+يمكن تغيير محتويات سياسة الخصوصية هذه في أي وقت ولأي سبب. للأسئلة المتعلقة بسياسة الخصوصية لهذا الموقع ، اتصل[plailect@gmail.com](mailto:plailect@gmail.com).
