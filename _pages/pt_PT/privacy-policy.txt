@@ -20,7 +20,7 @@ Este site usa o Google Analytics para monitorar e analisar tráfego. Este site �
 
 Este site não recolhe informação pessoal. Este site poderá recolher informações de uso de forma a analisar interesses em conteúdo e fornecer a anunciantes com informação numa base agregada. Nenhuma informação pessoal identificável é partilhada com empresas de anúncios de terceiros.
 
-A Google (como uma empresa de anúncios de terceiros) utiliza cookies para fornecer anúncios neste site. O uso de cookies DART pela Google permite-lhes fornecer publicidade aos visitantes baseados nas suas visitas a este site bem como doutros sites. Para excluíres os cookies DART, vê a [Política de Privacidade de Publicidade da Google](http://www.google.com/policies/technologies/ads/).
+A Google (como uma empresa de anúncios de terceiros) utiliza cookies para fornecer anúncios neste site. O uso de cookies DART pela Google permite-lhes fornecer publicidade aos visitantes baseados nas suas visitas a este site bem como doutros sites. Para excluíres os cookies DART, vê a [Política de Privacidade da Publicidade da Google](http://www.google.com/policies/technologies/ads/).
 
 Outros servidores ou redes de publicidade de terceiros poderão também usar cookies para seguir a atividade do utilizador neste site para medir a eficácia da publicidade ou por outras razões indicadas nas suas políticas de privacidade. Este site não tem acesso ou controlo sobre quaisquer cookies que possam ser usados por anunciantes de terceiros.
 
