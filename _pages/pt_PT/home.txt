@@ -6,7 +6,7 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Guias completos de homebrew e <br /> custom firmware para vários dispositivos.<br />"
+excerpt: "Guias completos de homebrew e <br /> custom firmware para várias consolas.<br />"
 feature_row:
   - image_path: /images/home-page-switch.jpg
     url: "https://switch.hacks.guide/"
@@ -15,7 +15,7 @@ feature_row:
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "Guia de Hacks para a 3DS"
-    excerpt: "Um guia completo de custom firmware para a 3DS de retalho, desde o stock até ao boot9strap."
+    excerpt: "Um guia completo de custom firmware para a 3DS, desde o stock até ao boot9strap."
   - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "Guia de Hacks para a Wii U"
