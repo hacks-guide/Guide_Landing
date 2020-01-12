@@ -1,5 +1,8 @@
 #ads.txt hacks.guide
 
+google.com, pub-4641608711979091, DIRECT, f08c47fec0942fa0
+Newormedia.com, 4156, DIRECT
+
 google.com, pub-6670011780914577, DIRECT, f08c47fec0942fa0
 google.com, pub-8148998928447318, DIRECT, f08c47fec0942fa0
 google.com, pub-8267943526926430, DIRECT, f08c47fec0942fa0
