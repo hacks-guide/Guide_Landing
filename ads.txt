@@ -163,3 +163,6 @@ triplelift.com , 7205, DIRECT, 6c33edb13117fd86
 appnexus.com , 1314, RESELLER
 spotxchange.com , 228454, RESELLER, 7842df1d2fe2db34
 spotx.tv , 228454, RESELLER, 7842df1d2fe2db34
+
+yieldmo.com, 2417496099628458357, DIRECT
+rhythmone.com, 2310154583, DIRECT, a670c89d4a324e47
