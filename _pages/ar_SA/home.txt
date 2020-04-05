@@ -8,10 +8,6 @@ header:
   caption:
 excerpt: " أدلة كاملة عن الـHomebrew و <br /> التحديثات المعدلة CFW لعدة أجهزة.<br />"
 feature_row:
-  - image_path: /images/home-page-switch.jpg
-    url: "https://switch.hacks.guide/"
-    title: "دليل تهكير جهاز ننتيندو سوتش"
-    excerpt: "دليل كامل عن الـHomebrew لننتيندو سوتش و تطوير الـHomebrew."
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "دليل تهكير جهاز 3DS"
