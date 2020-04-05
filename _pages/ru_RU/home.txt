@@ -8,10 +8,6 @@ header:
   caption:
 excerpt: "Полные руководства по хоумбрю <br /> и кастомным прошивкам для различных консолей.<br />"
 feature_row:
-  - image_path: /images/home-page-switch.jpg
-    url: "https://switch.hacks.guide/"
-    title: "Switch Hacks Guide"
-    excerpt: "Полное руководство по хоумбрю на Switch и его разработке."
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "3DS Hacks Guide"
