@@ -8,10 +8,6 @@ header:
   caption:
 excerpt: "Vollständige Anleitungen zur Installation von Homebrew<br /> und veränderter Systemsoftware verschiedener Geräte.<br />"
 feature_row:
-  - image_path: /images/home-page-switch.jpg
-    url: "https://switch.hacks.guide/"
-    title: "Switch Hacks Guide"
-    excerpt: "Eine vollständige Anleitung für Switch Homebrew und die Homebrew-Entwicklung."
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     titel: "3DS Hacks Guide"

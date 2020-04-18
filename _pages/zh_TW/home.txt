@@ -8,10 +8,6 @@ header:
   caption:
 excerpt: "為各式主機所寫最完整的自製軟體<br />及自製韌體的改機手冊。<br />"
 feature_row:
-  - image_path: /images/home-page-switch.jpg
-    url: "https://switch.hacks.guide/"
-    title: "Switch 改機手冊"
-    excerpt: "最完整的 Switch 自製軟體以及自製軟體開發教戰手冊。"
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "3DS 改機手冊"

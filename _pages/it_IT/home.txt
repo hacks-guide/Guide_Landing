@@ -8,10 +8,6 @@ header:
   caption:
 excerpt: "Guide complete per homebrew e <br /> custom firmware su vari dispositivi.<br />"
 feature_row:
-  - image_path: /images/home-page-switch.jpg
-    url: "https://switch.hacks.guide/"
-    title: "Guida per l'Hacking della Switch"
-    excerpt: "La guida omnicomprensiva all'Homebrew su Switch e lo sviluppo di homebrew."
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "Guida per l'Hacking del 3DS"

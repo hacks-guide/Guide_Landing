@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Guias.de.Hacks" #
+title: "Guias de Hacks" #
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/home-page-feature.jpg
@@ -8,10 +8,6 @@ header:
   caption:
 excerpt: "Guias completos de homebrew e <br /> custom firmware para várias consolas.<br />"
 feature_row:
-  - image_path: /images/home-page-switch.jpg
-    url: "https://switch.hacks.guide/"
-    title: "Guia de Hacks para a Switch"
-    excerpt: "Um guia completo para o homebrew da Switch e desenvolvimento de homebrew."
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "Guia de Hacks para a 3DS"

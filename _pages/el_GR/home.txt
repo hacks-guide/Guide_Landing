@@ -8,10 +8,6 @@ header:
   caption:
 excerpt: "Ολοκληρωμένοι οδηγοί για homebrew και <br /> custom firmware για πολλαπλές συσκευές.<br />"
 feature_row:
-  - image_path: /images/home-page-switch.jpg
-    url: "https://switch.hacks.guide/"
-    title: "Οδηγός Switch Hacks"
-    excerpt: "Ένας πλήρης οδηγός όσον αφορά το Switch homebrew και την ανάπτυξη εφαρμογών homebrew."
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     τίτλος: "Οδηγός 3DS Hacks"
