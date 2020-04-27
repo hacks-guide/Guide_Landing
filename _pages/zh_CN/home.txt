@@ -1,25 +1,25 @@
 ---
 layout: splash
-title: "Hacks.Guide" #
+title: "Hacks.guide 系列破解手册" #
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Complete guides to homebrew and <br /> custom firmware for various devices.<br />"
+excerpt: "为各种主机所写的最完整的自制软件<br />及自制固件的破解手册。<br />"
 feature_row:
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
-    title: "3DS Hacks Guide"
-    excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
+    title: "3DS 破解手册"
+    excerpt: "最完整的 3DS 破解教程手册，教你如何从原厂主机破解成 boot9strap。"
   - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
-    title: "Wii U Hacks Guide"
-    excerpt: "A complete guide to Wii U custom firmware, from stock to Coldboot Haxchi."
+    title: "Wii U 破解手册"
+    excerpt: "最完整的 Wii U 破解手册，教你从原厂主机破解成 Coldboot Haxchi。"
   - image_path: /images/home-page-vita.jpg
     url: "https://vita.hacks.guide/"
-    title: "Vita Hacks Guide"
-    excerpt: "A complete guide to PS Vita (TV) custom firmware, from stock to HENkaku Ensō."
+    title: "Vita 破解手册"
+    excerpt: "最完整的 PS Vita (TV) 破解手册，教你从原厂主机破解成 HENkaku Ensō。"
 ---
 
 {% include feature_row %}

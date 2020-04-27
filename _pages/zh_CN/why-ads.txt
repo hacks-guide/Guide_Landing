@@ -1,14 +1,14 @@
 ---
-title: "Why Ads?"
+title: "为什么有广告？"
 ---
 
-This project is the culmination of thousands of hours of constant work.
+此项目包含我们数千小时持续工作的心血。
 
-I maintain this guide, for free, and ensure it is always up to date. Because of this effort, I feel that it is fair for me to attempt to gain a meager income from my work.
+我将持续免费地维护本指南，以确保这一切都是最新版的。 因此，我加入了一些广告，为我增加了一些微薄的收入是再公平不过的了。
 
-This site costs you nothing to use, and all that I display are non-intrusive ads. If you still have a problem with this, feel free to block these ads.
+本网站所显示的广告都是非侵入式的，加上指南内的工具完全免费。 如果你还是不大喜欢，没关系，尽管挡我的广告。
 
-If you do block ads, I would like to also remind you of the [Donations](donations) page, but once again that is optional too.
+如果你屏蔽了这些广告，记得我们有一个[捐赠](donations)页面。当然了，这也是自愿的。
 
-Thanks,<br>
+谢谢，<br>
 Plailect

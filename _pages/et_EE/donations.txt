@@ -1,5 +1,5 @@
 ---
-title: "捐赠"
+title: "Donations"
 ---
 
 ### Nintendo Homebrew
@@ -7,7 +7,7 @@ title: "捐赠"
 {: .text-center}
 {: .notice--info}
 
-### emiyl（Vita 破解手册）
+### emiyl (for Vita Hacks Guide)
 [![Paypal]({{ "/images/paypal_white.png" | absolute_url }}){:height="72px" width="256px"}{: style="padding-bottom: .35em"}](https://www.paypal.me/emiyl/15){: .align-center}
 {: .text-center}
 {: .notice--info}
