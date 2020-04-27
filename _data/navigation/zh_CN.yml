@@ -1,16 +1,16 @@
 ---
 main:
   - 
-    title: Home
+    title: 主页
     url: /
   - 
-    title: Donations
+    title: 捐赠
     url: donations
 top:
   - 
-    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
+    title: 本网站利用cookies在侧边栏上显示当前的操作进度并改善此站点的使用体验。
 footer:
   - 
-    title: Source
+    title: 本站源码
   - 
-    title: Privacy Policy
+    title: 隐私政策
