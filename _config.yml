@@ -173,8 +173,8 @@ exclude: [
   _pages/tr_TR,
   _pages/uk_UA,
   _pages/vi_VN,
-  _pages/zh_CN,
-  _pages/zh_TW,
+  # _pages/zh_CN,
+  # _pages/zh_TW,
 ]
 
 keep_files:
