@@ -20,6 +20,9 @@ feature_row:
     url: "https://vita.hacks.guide/"
     title: "Vita Hacks Guide"
     excerpt: "A complete guide to PS Vita (TV) custom firmware, from stock to HENkaku Ensō."
+  - image_path: /images/home-page-wii.jpg
+    url: "https://wii.guide"
+    title: "Wii Hacks Guide"
 ---
 
 {% include feature_row %}
