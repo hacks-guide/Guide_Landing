@@ -1,25 +1,25 @@
 ---
 layout: splash
-title: "Guias de Hacks" #
+title: "Hacks.Guide" #
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Guias completos de homebrew e <br /> custom firmware para várias consolas.<br />"
+excerpt: "Complete guides to homebrew and <br /> custom firmware for various devices.<br />"
 feature_row:
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
-    title: "Guia de Hacks para a 3DS"
-    excerpt: "Um guia completo de custom firmware para a 3DS, desde o stock até ao boot9strap."
+    title: "3DS Hacks Guide"
+    excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
   - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
-    title: "Guia de Hacks para a Wii U"
-    excerpt: "Um guia completo de custom firmware para a Wii U, desde o stock até ao Coldboot Haxchi."
+    title: "Wii U Hacks Guide"
+    excerpt: "A complete guide to Wii U custom firmware, from stock to Coldboot Haxchi."
   - image_path: /images/home-page-vita.jpg
     url: "https://vita.hacks.guide/"
-    title: "Guia de Hacks para a PS Vita"
-    excerpt: "Um guia completo de custom firmware para a PS Vita (TV), desde o stock até ao HENkaku Ensō."
+    title: "Vita Hacks Guide"
+    excerpt: "A complete guide to PS Vita (TV) custom firmware, from stock to HENkaku Ensō."
 ---
 
 {% include feature_row %}
