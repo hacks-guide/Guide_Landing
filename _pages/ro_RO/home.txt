@@ -6,7 +6,7 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Ghiduri complete pentru Homebrew și<br /> custom firmware pentru diverse console.<br />"
+excerpt: "Ghiduri complete pentru homebrew și<br /> firmware personalizat pentru diverse console.<br />"
 feature_row:
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
