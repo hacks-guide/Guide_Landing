@@ -15,7 +15,7 @@ feature_row:
   - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "Wii U Hacks Guide"
-    excerpt: "A complete guide to Wii U custom firmware, from stock to Coldboot Haxchi."
+    excerpt: "A complete guide to Wii U custom firmware, from stock to Tiramsu."
   - image_path: /images/home-page-vita.jpg
     url: "https://vita.hacks.guide/"
     title: "Vita Hacks Guide"
