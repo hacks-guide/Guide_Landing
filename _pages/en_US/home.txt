@@ -15,7 +15,7 @@ feature_row:
   - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "Wii U Hacks Guide"
-    excerpt: "A complete guide to Wii U custom firmware, from stock to Coldboot Haxchi."
+    excerpt: "A complete guide to Wii U custom firmware, from stock to Tiramisu."
   - image_path: /images/home-page-vita.jpg
     url: "https://vita.hacks.guide/"
     title: "Vita Hacks Guide"
@@ -24,6 +24,10 @@ feature_row:
     url: "https://wii.hacks.guide/"
     title: "Wii Hacks Guide"
     excerpt: "The complete guide to modding your Nintendo Wii (and Wii mini)."
+  - image_path: /images/home-page-switch.png
+    url: "https://nh-server.github.io/switch-guide/"
+    title: "Switch Hacks Guide"
+    excerpt: "A complete guide to Switch custom firmware, from stock to Atmosphere."
 ---
 
 {% include feature_row %}
