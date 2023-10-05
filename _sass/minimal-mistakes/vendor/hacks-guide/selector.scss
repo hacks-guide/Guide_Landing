@@ -1,0 +1,40 @@
+select {
+    background-color: $background-color;
+    color: $text-color;  
+    font-weight: bold;
+    cursor: pointer;
+    border: 3px solid #585d66;
+}
+
+input {
+    color: $text-color;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid #585d66;
+}
+
+input:hover {
+    background-color: #767a80;
+}
+
+.selectversion {
+    background-color: $background-color;
+    text-align: center;
+    border: 1px solid #585d66;
+    border-radius: 10px;
+}
+
+img.tableimage {
+    height: 40%;
+    width: 40%;
+}
+
+table.modeltable {
+    text-align: center;
+}
+
+input[type="radio"] {
+    width: 50px;
+    height: 25px;
+    transition: none;
+}
