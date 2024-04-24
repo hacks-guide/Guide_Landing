@@ -1,0 +1,23 @@
+name: Test site build
+
+on:
+  pull_request:
+
+jobs:
+  doc-test: 
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          submodules: recursive
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Run Jekyll
+        # Build the site using Jekyll
+        run: JEKYLL_ENV=production bundle exec jekyll build
