@@ -6,9 +6,14 @@
 import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vitepress'
 
+import * as i18n from './i18n'
+
 export default defineConfig({
   title: "Hacks Guide",
   description: "Hacks Guide Listings",
+  locales: {
+    root: i18n.en_US
+  },
   vite: {
     resolve: {
       alias: [
