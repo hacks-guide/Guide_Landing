@@ -10,7 +10,13 @@ const themeConfig = {
 
 	nav: [
 		{ text: localeData.pages["donations"], link: `/donations` }
-	]
+	],
+	footer: {
+		copyright: 'Copyright © 2024 Nintendo Homebrew',
+		items: [
+			{ text: localeData.pages["privacy-policy"], link: `/privacy-policy` }
+		]
+	}
 };
 
 export default {
