@@ -11,6 +11,7 @@ import * as i18n from './i18n'
 export default defineConfig({
   title: "Hacks Guide",
   description: "Hacks Guide Listings",
+  head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
   locales: {
     root: i18n.en_US
   },
