@@ -11,19 +11,19 @@ feature_row:
   - image_path: /images/home-page-3ds.jpg
     url: "https://3ds.hacks.guide/"
     title: "3DS Hacks Guide"
-    excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
+    excerpt: "A complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap."
   - image_path: /images/home-page-wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     title: "Wii U Hacks Guide"
-    excerpt: "A complete guide to Wii U custom firmware, from stock to Aroma."
+    excerpt: "A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware."
   - image_path: /images/home-page-vita.jpg
     url: "https://vita.hacks.guide/"
     title: "Vita Hacks Guide"
-    excerpt: "A complete guide to PS Vita (TV) custom firmware, from stock to HENkaku Ensō."
+    excerpt: "A complete guide to PS Vita (TV) custom firmware, from stock to Ensō."
   - image_path: /images/home-page-wii.jpg
     url: "https://wii.hacks.guide/"
     title: "Wii Hacks Guide"
-    excerpt: "The complete guide to modding your Nintendo Wii (and Wii mini)."
+    excerpt: "The complete guide to modding your Wii, vWii, and Wii mini."
   - image_path: /images/home-page-switch.png
     url: "https://nh-server.github.io/switch-guide/"
     title: "Switch Hacks Guide"
