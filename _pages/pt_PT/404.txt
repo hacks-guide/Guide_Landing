@@ -1,8 +1,0 @@
----
-title: "Página Não Encontrada" #
-excerpt: "Página não encontrada. Os teus píxeis estão noutra tela." #
-sitemap: false
----
-
-Desculpa, mas a página que estavas a tentar visualizar não existe.
-{: .notice--info}
