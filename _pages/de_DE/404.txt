@@ -1,8 +1,0 @@
----
-title: "Seite nicht gefunden" #
-excerpt: "Seite nicht gefunden. Deine Pixel befinden sich auf einem anderen Canvas." #
-sitemap: false
----
-
-Es tut uns leid, die gewünschte Seite existiert nicht.
-{: .notice--info}

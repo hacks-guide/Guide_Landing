@@ -1,0 +1,16 @@
+{
+    "language": "English",
+    "title": "Hacks.Guide",
+    "description": "Hacks Guide Listings",
+    "langMenuLabel": "Switch language",
+    "darkModeSwitchLabel": "Appearance",
+    "darkModeSwitchTitle": "Switch to dark theme",
+    "lightModeSwitchTitle": "Switch to light theme",
+    "sidebarMenuLabel": "Menu",
+    "returnToTopLabel": "Return to top",
+
+    "pages": {
+        "donations": "Donations",
+        "privacy-policy": "Privacy Policy"
+    }
+}
