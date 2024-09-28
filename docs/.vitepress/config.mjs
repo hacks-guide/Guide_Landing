@@ -11,7 +11,10 @@ import * as i18n from './i18n'
 export default defineConfig({
   title: "Hacks Guide",
   description: "Hacks Guide Listings",
-  head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/images/favicon.ico' }],
+         ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-0R9QL9R7B8' }],
+         ['script', {}, `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-0R9QL9R7B8');`]
+  ],
   locales: {
     root: i18n.en_US
   },
