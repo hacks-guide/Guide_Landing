@@ -39,7 +39,7 @@ features:
       src: /images/home-page-switch.png
       height: 100%
       width: 100%
-    link: "https://nh-server.github.io/switch-guide/"
+    link: "https://switch.hacks.guide/"
     title: "Switch Hacks Guide"
     details: "A complete guide to Switch custom firmware, from stock to Atmosphere."
 ---
