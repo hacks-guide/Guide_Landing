@@ -18,6 +18,9 @@ export default defineConfig({
   locales: {
     root: i18n.en_US
   },
+  sitemap: {
+    hostname: 'https://hacks.guide'
+  },
   themeConfig: {
     socialLinks: [
       { icon: 'github', link: 'https://github.com/hacks-guide' }
