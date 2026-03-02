@@ -1,6 +1,8 @@
 # Donations
 
-### Nintendo Homebrew
+---
+
+### Nintendo Homebrew (for all of hacks.guide)
 
 ::: tip
 
@@ -10,22 +12,26 @@
 
 :::
 
-### emiyl (for Vita Hacks Guide)
+---
 
-::: tip
-
-[![Paypal](/images/paypal_white.png)](https://www.paypal.me/emiyl/15){style="display: block;text-align: center"}
-
-[https://www.paypal.me/emiyl/15](https://www.paypal.me/emiyl/15){style="display: block;text-align: center"}
-
-:::
-
-### WiiLink24 (for Wii Hacks Guide)
+### WiiLink (for Wii Hacks Guide)
 
 ::: tip
 
 [![Patreon](/images/patreon_white.png)](https://www.patreon.com/WiiLink24){style="display: block;text-align: center"}
 
 [https://www.patreon.com/WiiLink24](https://www.patreon.com/WiiLink24){style="display: block;text-align: center"}
+
+:::
+
+---
+
+### emiyl (for Vita Hacks Guide)
+
+::: tip
+
+[![Ko-Fi](/images/ko-fi_white.png)](https://ko-fi.com/emiyl){style="display: block;text-align: center"}
+
+[https://ko-fi.com/emiyl](https://ko-fi.com/emiyl){style="display: block;text-align: center"}
 
 :::

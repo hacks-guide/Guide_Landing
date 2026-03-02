@@ -23,9 +23,11 @@ export default defineConfig({
   },
   themeConfig: {
     socialLinks: [
+      { icon: 'discord', link: 'https://discord.gg/C29hYvh' },
       { icon: 'github', link: 'https://github.com/hacks-guide' }
     ]
   },
+  cleanUrls: true,
   vite: {
     resolve: {
       alias: [
