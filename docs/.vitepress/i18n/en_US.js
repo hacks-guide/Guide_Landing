@@ -12,7 +12,7 @@ const themeConfig = {
 		{ text: localeData.pages["donations"], link: `/donations` }
 	],
 	footer: {
-		copyright: 'Copyright © 2024 Nintendo Homebrew',
+		copyright: 'Copyright © 2026 Nintendo Homebrew',
 		items: [
 			{ text: localeData.pages["privacy-policy"], link: `/privacy-policy` }
 		]
