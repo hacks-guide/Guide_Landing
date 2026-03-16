@@ -20,7 +20,7 @@ features:
       width: 100%
     link: "https://wiiu.hacks.guide/"
     title: "Wii U Hacks Guide"
-    details: "A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware."
+    details: "A guide collaboration between Nintendo Homebrew's helpers and staff, from stock to Aroma custom firmware."
   - icon:
       src: /images/home-page-vita.jpg
       height: 100%
